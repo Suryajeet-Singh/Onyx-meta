@@ -1,0 +1,11 @@
+[
+	{
+		"search_product" : "Shampoo",
+		"product_title": "OGX Shampoo",
+		"alpha_num": "#123 Product",
+		"only_numbers": "12345",
+		"keyword_with_spaces": "  Shampoo  ",
+		"one_char": "s",
+		"one_special_char": "~"
+	}
+]

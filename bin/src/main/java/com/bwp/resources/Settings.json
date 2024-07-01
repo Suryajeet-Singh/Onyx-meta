@@ -1,0 +1,20 @@
+[
+	{
+		"invalid_password": "123@Yatindra",
+		"password_with_only_upper_lower_case": "YatindraKinker",
+		"password_with_only_upper_lower_case_number": "YatindraKinker123",
+		"password_with_only_upper_case": "YATINDRAKINKER",
+		"password_with_only_lower_case": "yatindrakinker",
+		"password_with_only_number": "123456789",
+		"password_with_only_special_symbols": "!@#$%^&*()_",
+		"password_with_only_lower_case_numbers": "yatindrakinker123",
+		"password_with_only_upper_case_numbers": "YATINDRAKINKER123",
+		"password_with_only_number_and_special_symbol": "1234@#$%",
+		"password_with_only_upper_case_Special_symbol": "YATINDRAKINKER@#$%",
+		"password_with_only_lower_case_Special_symbol": "yatindrakinker!@#",
+		"password_with_only_upper_lower_case_special_symbol": "YatindraKinker!@#",
+		"registered_email": "iamyatindrathephenom@gmail.com",
+		"brand_name": "Shukla's",
+		"new_brand_name": "Yatindra's"
+	}
+]

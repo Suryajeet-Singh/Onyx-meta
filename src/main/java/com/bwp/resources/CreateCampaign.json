@@ -1,0 +1,14 @@
+[
+	{
+		"campaign_name" : "christmas_sale_2022",
+		"start_date" : "01/15/2023",
+		"end_data" : "02/28/2023",
+		"minimum_daily_budget" : "4",
+		"daily_budget" : "100",
+		"ad_text" : "biggest sale of season get upto 75% off",
+		"min_age" : "18",
+		"max_age" : "50",
+		"gender" : "All",
+		"interest" : "cricket"
+	}
+]

@@ -1,0 +1,13 @@
+[
+
+	{
+		"email" : "iamyatindrathephenom@gmail.com",
+		"password" : "Yatindra@123",
+		"invalid_email" : "abc@@geemail.com",
+		"invalid_password" : "Abc@1234",
+		"unregistered_email" : "iamyatindra@gmail.com",
+		"market_email" : "kusumgairola@cedcommerce.com",
+		"market_pass" : "Password@123"
+	}
+
+]

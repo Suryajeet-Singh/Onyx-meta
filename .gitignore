@@ -1,0 +1,11 @@
+Log/*
+OnyxMetaAutomation/*
+Reports/*
+target/*
+test-output/*
+.classpath
+.metadata/*
+.project
+.settings/*
+/target/*
+/target/
